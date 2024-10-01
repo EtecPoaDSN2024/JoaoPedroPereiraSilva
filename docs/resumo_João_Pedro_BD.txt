@@ -1,0 +1,3 @@
+Atividade de Banco de Dados:
+
+No contexto de Banco de Dados, vemos que uma chave primária, trata-se de um conceito fundamental, pois, serve para identificar de forma única cada registro em uma tabela. Elas tem como principais características: Unicidade, Não nulidade, Imutabilidade e Uso em relacionamentos. Uma informação a se destacar é que não é recomendado usar cpf como chave primária, por ela pode se alterar por ser um dado externo que pertence ao país. Por fim quero falar sobre as chaves estrangeiras que são capos ou conjunto de campos da tabela que se usa para estabelecer uma relação entre duas tabelas.
